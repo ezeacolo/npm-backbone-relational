@@ -13,11 +13,11 @@
   },
 
   "optionalDependencies": {
-    "underscore": ">=1.4.3",
-    "backbone": ">=0.9.9"
+    "underscore": ">=1.4.4",
+    "backbone": ">=0.9.10"
   },
 
   "lib"           : ".",
   "main"          : "backbone-relational.js",
-  "version"       : "0.7.0"
+  "version"       : "0.8.0"
 }

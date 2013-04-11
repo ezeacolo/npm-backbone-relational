@@ -14,10 +14,10 @@
 
   "optionalDependencies": {
     "underscore": ">=1.4.4",
-    "backbone": ">=0.9.10"
+    "backbone": ">=1.0.0"
   },
 
   "lib"           : ".",
   "main"          : "backbone-relational.js",
-  "version"       : "0.8.0plus"
+  "version"       : "0.8.5"
 }
